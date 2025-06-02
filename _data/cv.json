@@ -1,0 +1,124 @@
+{
+  "education": [
+    {
+      "institution": "KU Leuven",
+      "degree": "Ph.D. in Intelligent Manufacturing",
+      "years": "2019 – 2023",
+      "details": "Full scholarship; Research on electrical discharge machining, process monitoring, and micro-/nano-manufacturing. Supervisor: Prof. Dominiek Reynaerts"
+    },
+    {
+      "institution": "Shanghai Jiao Tong University",
+      "degree": "M.A. in Mechanical Engineering",
+      "years": "2016 – 2019",
+      "details": "Research on EDM, precision metrology, and process control."
+    },
+    {
+      "institution": "University of Electronic Science and Technology of China",
+      "degree": "B.A. in Mechanical & Electronics Engineering",
+      "years": "2012 – 2016",
+      "details": "Thesis: Development and control for a 3-DOF RPS parallel robot."
+    }
+  ],
+
+  "experience": [
+    {
+      "position": "Research Fellow",
+      "institution": "University of Edinburgh (Generative AI Lab)",
+      "years": "2025 – Present",
+      "details": ""
+    },
+    {
+      "position": "Postdoctoral Research Associate",
+      "institution": "University of Edinburgh",
+      "years": "2024 – Present",
+      "details": "Research on multi-field machining, plasma-assisted precision machining, additive and digital manufacturing."
+    },
+    {
+      "position": "KTP Associate",
+      "institution": "University of Edinburgh & PlasmaTrack Ltd",
+      "years": "2024",
+      "details": "DC arc plasma for rail track cleaning and process optimization."
+    }
+  ],
+
+  "teaching": [
+    {
+      "title": "Teaching Fellow",
+      "institution": "University of Edinburgh",
+      "years": "2025",
+      "details": "Courses: Conceptual Design for Mechanical Engineers (3rd year), Digital Manufacture (5th year)"
+    },
+    {
+      "title": "Guest Lecturer",
+      "institution": "University of Edinburgh",
+      "years": "2024",
+      "details": "Metrology (MSc): Machine learning applications in metrology"
+    },
+    {
+      "title": "Teaching Assistant",
+      "institution": "KU Leuven",
+      "years": "2019 – 2023",
+      "details": "Creative Problem Solving (3rd year BSc); involved in labs, assignments, presentations"
+    }
+  ],
+
+  "visits": [
+    {
+      "title": "Visiting Fellow",
+      "institution": "Northwestern University",
+      "years": "Sep – Nov 2023",
+      "details": "Mechanistic-AI for advanced precision manufacturing"
+    },
+    {
+      "title": "Visiting Student",
+      "institution": "Tokyo University of Agriculture and Technology",
+      "years": "Nov 2023",
+      "details": "Sakura Science Exchange Program: ML-assisted manufacturing process monitoring"
+    },
+    {
+      "title": "Visiting Researcher",
+      "institution": "RWTH Aachen University",
+      "years": "Sep 2022",
+      "details": "Collaborative research on EDM monitoring"
+    }
+  ],
+
+  "awards": [
+    {
+      "title": "EPSRC IAA Innovation Competition Award",
+      "year": "2024"
+    },
+    {
+      "title": "Best Presentation, Vision Forum for International Young Scholars",
+      "year": "2024"
+    },
+    {
+      "title": "Excellent Skills Grant, Industry 4.0 Summer School (FH Aachen)",
+      "year": "2022"
+    },
+    {
+      "title": "Mitsubishi Electrics Scholarship",
+      "year": "2017"
+    }
+  ],
+
+  "affiliations": [
+    {
+      "title": "Scientific Committee Member, EUSPEN",
+      "years": "2024 – Present"
+    },
+    {
+      "title": "President, Edinburgh Materials Society (IOM3 Local Society)"
+    },
+    {
+      "title": "Member, IMechE"
+    }
+  ],
+
+  "skills": [
+    "Design of experiments (DoE): design expert, ANOVA",
+    "CAD/CAM: AutoCAD, Creo, UG/NX, ESPRIT",
+    "Programming: Python, C/C++, MATLAB",
+    "Machine learning: scikit-learn, Keras, TensorFlow, PyTorch"
+  ]
+}
